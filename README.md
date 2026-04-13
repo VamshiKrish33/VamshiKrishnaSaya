@@ -12,9 +12,9 @@ Master's student focused on Data Engineering, Data Science, and AI — building 
 ### What I work with
 
 **Core:** Python · SQL · Pandas · NumPy · Scikit-learn  
-**Data Engineering:** PostgreSQL · ETL Pipelines · Apache Airflow · REST APIs  
+**Data Engineering:** PostgreSQL · ETL Pipelines · Apache Airflow · Docker · REST APIs  
 **Data Science & AI:** Matplotlib · Seaborn · TensorFlow · PyTorch  
-**Tools:** Git · Docker · Linux · Jupyter · VS Code
+**Tools:** Git · Docker · Linux · Jupyter · VS Code · pytest
 
 ---
 
@@ -22,10 +22,10 @@ Master's student focused on Data Engineering, Data Science, and AI — building 
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
+| 🚆 [DB Train Delay Analytics](https://github.com/VamshiKrish33/db-train-delay-analytics) | Automated ETL pipeline analyzing Deutsche Bahn train delays across 6 major stations. Extracts live data from DB API, transforms with pandas, loads into PostgreSQL, orchestrated by Airflow — all Dockerized. | Python · Airflow · PostgreSQL · Docker · pandas |
 | 🏥 [Bed Management Optimization](https://github.com/VamshiKrish33/Bed-Management-Optimization) | Award-winning research project optimizing hospital bed allocation with data-driven algorithms | Python · HTML/CSS · JS |
-| 📊 [Personal Projects](https://github.com/VamshiKrish33/Personal-Projects) | Collection of data analysis and ML experiments | Python · Jupyter |
 
-> *More projects coming soon — currently building end-to-end data pipelines and ML systems.*
+> *More projects coming soon — currently building end-to-end ML systems and data dashboards.*
 
 ---
 
