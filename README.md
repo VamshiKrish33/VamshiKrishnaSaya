@@ -1,6 +1,6 @@
-# Hi, I'm Vamshi Krishna SAYA👋
+# Hi, I'm Vamshi Krishna Saya 👋
 
-**Data Engineer** in the making — building pipelines, training models, and turning messy data into something useful.
+Master's student focused on Data Engineering, Data Science, and AI — building pipelines, training models, and solving real-world problems with data.
 
 🎓 M.Sc. Web and Data Science · University of Koblenz  
 🎓 B.Tech · Presidency University, Bangalore  
@@ -31,16 +31,16 @@
 
 ### What I'm currently learning
 
-- Building production-grade **ETL pipelines** with Airflow and cloud services
+- Building production-grade **ETL pipelines** with Airflow
 - **Data modeling** and warehouse design (star schema, dimensional modeling)
 - Deploying ML models with **FastAPI** and **Docker**
-- Cloud fundamentals on **AWS / Azure**
+- Cloud services as needed for data workflows
 
 ---
 
 ### Let's connect
 
-[![LinkedIn](https://www.linkedin.com/in/sayavamshikrishna)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayavamshikrishna/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sayavamshikrishna124@gmail.com)
 
 ---
